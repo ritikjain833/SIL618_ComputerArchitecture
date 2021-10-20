@@ -1,0 +1,68 @@
+Buildfile: /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/build.xml
+
+clean:
+   [delete] Deleting directory /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/bin
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Buildfile: /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/build.xml
+
+build:
+    [mkdir] Created dir: /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/bin
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/build.xml:9: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 16 source files to /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/bin
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Main.java:6: error: duplicate class: Main
+    [javac] public class Main {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor.java:2: error: duplicate class: Predictor
+    [javac] public abstract class Predictor {
+    [javac]                 ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor2400.java:2: error: duplicate class: Predictor2400
+    [javac] public class Predictor2400 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor32000.java:2: error: duplicate class: Predictor32000
+    [javac] public class Predictor32000 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor6400.java:2: error: duplicate class: Predictor6400
+    [javac] public class Predictor6400 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor9999.java:2: error: duplicate class: Predictor9999
+    [javac] public class Predictor9999 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Register.java:3: error: duplicate class: Register
+    [javac] public class Register {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Table.java:3: error: duplicate class: Table
+    [javac] public class Table {
+    [javac]        ^
+    [javac] 8 errors
+Buildfile: /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/build.xml
+
+build:
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/build.xml:9: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 16 source files to /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/bin
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Main.java:6: error: duplicate class: Main
+    [javac] public class Main {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor.java:2: error: duplicate class: Predictor
+    [javac] public abstract class Predictor {
+    [javac]                 ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor2400.java:2: error: duplicate class: Predictor2400
+    [javac] public class Predictor2400 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor32000.java:2: error: duplicate class: Predictor32000
+    [javac] public class Predictor32000 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor6400.java:2: error: duplicate class: Predictor6400
+    [javac] public class Predictor6400 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Predictor9999.java:2: error: duplicate class: Predictor9999
+    [javac] public class Predictor9999 extends Predictor {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Register.java:3: error: duplicate class: Register
+    [javac] public class Register {
+    [javac]        ^
+    [javac] /mnt/f/study/sem1/computer_architecture/assignments/2021/Assignment2/working_directory/Table.java:3: error: duplicate class: Table
+    [javac] public class Table {
+    [javac]        ^
+    [javac] 8 errors
