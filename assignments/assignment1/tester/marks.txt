@@ -1,0 +1,1 @@
+assignment 1 1 1 1 1 1 1 1 1 1    => qs_rec: 1  Total: 25.0
